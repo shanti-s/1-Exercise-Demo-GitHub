@@ -3,6 +3,7 @@
 
 
 * clone the repo to your local machine
+* move into the local repository | `cd <local-repo>`
 * create a branch and name it using your first name | `git checkout -b <your-name>`
 * create a folder to work in | `mkdir <your-name>`
 * move the files included in the repo to your project folder | `mv <filename> <project-folder>`
