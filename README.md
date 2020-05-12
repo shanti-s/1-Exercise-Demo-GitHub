@@ -1,1 +1,1 @@
-# 1-Exercise-Demo-GitHub
+# Exercise Demo GitHub
